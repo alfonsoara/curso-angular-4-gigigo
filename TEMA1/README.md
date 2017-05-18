@@ -156,7 +156,16 @@ export class AppModule { }
 
 ```
 
-# TEMA 1
+# Tips:
+
+Si por alguna razon el CLI nos llegar a instalar una version 2 de Angular la podemos actualizar con el siguiente comando:
+`npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router,animations}@latest --save`
+
+Para instalar la ultima version Beta:
+`npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router,animations}@next --save`
+
+
+# Angular Cli Information
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
