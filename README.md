@@ -5,5 +5,11 @@
 * Instalacion de Angular CLI
 * Instalacion de dependencias en el CLI
 * Generacion de componentes
-* Angular Animation
 * Usando Router Module
+
+
+`Tema 2` Configurando un admin:
+* Generacion de componentes
+* Uso del Router
+* Uso del two-way data binding entre componentes
+* Children's en Routing
